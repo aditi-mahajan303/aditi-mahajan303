@@ -1,16 +1,16 @@
-### Hi there 👋
+ Hi there 👋 Iam Aditi Mahajan
 
-<!--
-**aditi-mahajan303/aditi-mahajan303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+I'm a Student
+I'm currently pursuing my Bachelor's degree in Computer Science
+
+- 🔭 I’m currently working on Data Science Project
+- 🌱 I’m currently learning Django and Flask
+- 👯 I’m looking to collaborate on Industry Projects
+- 🤔 I’m looking for help with Big Data Architecture
+- 💬 Ask me about Website designing, Frameworks, Python & Open Source
+- 📫 How to reach me: aditimahajan376@gmail.com
+- ⚡ Fun fact: 
 -->
